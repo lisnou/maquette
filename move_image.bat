@@ -1,0 +1,1 @@
+copy "C:\Users\TTM\.gemini\antigravity\brain\8932c91f-5ad3-4b58-81ff-8057db51cf00\gym_cardio_proposal_v3_casual_1769443084183.png" "c:\Users\TTM\Desktop\PROJET_APP\03_CONCEPTION_TECHNIQUE\MAQUETTE_CODE_V1\public\gym_cardio.png"
