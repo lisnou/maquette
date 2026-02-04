@@ -8,20 +8,14 @@ export default function RiderCatalog({ onPlay }) {
     const [selectedDuree, setSelectedDuree] = useState('Toutes');
     const [selectedDiscipline, setSelectedDiscipline] = useState('Toutes');
 
-    // Limiter aux 20 premières séances pour le MVP
-    const mvpSeances = SeancesData.slice(0, 20);
-
-    const filteredSeances = mvpSeances.filter(s => {
+    const filteredSeances = SeancesData.filter(s => {
         const matchSearch = s.nom.toLowerCase().includes(searchTerm.toLowerCase()) ||
             s.discipline.toLowerCase().includes(searchTerm.toLowerCase());
         const matchNiveau = selectedNiveau === 'Tous' || s.niveau === selectedNiveau;
         const matchDuree = selectedDuree === 'Toutes' || s.duree === selectedDuree;
 
         // Filtrage par discipline/type
-        const matchDiscipline = selectedDiscipline === 'Toutes' ||
-            s.discipline === selectedDiscipline ||
-            (selectedDiscipline === 'Thématique spécifique' && s.type === 'Thématique spécifique') ||
-            (selectedDiscipline === 'Résolution de problème' && s.type === 'Résolution de problème');
+        const matchDiscipline = selectedDiscipline === 'Toutes' || s.discipline === selectedDiscipline;
 
         return matchSearch && matchNiveau && matchDuree && matchDiscipline;
     });
@@ -38,12 +32,10 @@ export default function RiderCatalog({ onPlay }) {
     const disciplines = [
         'Toutes',
         'Dressage',
-        'Obstacle',
-        'Cross & Extérieur sportif',
+        'Gymnastique en Saut & Cardio',
         'Travail au sol',
         'Détente & Bien-être',
-        'Thématique spécifique',
-        'Résolution de problème'
+        'Technique & Position'
     ];
 
     return (
@@ -174,24 +166,26 @@ export default function RiderCatalog({ onPlay }) {
 }
 
 function getSeanceVisual(seance) {
+    const base = import.meta.env.BASE_URL;
     const name = seance.nom.toLowerCase();
     const discipline = seance.discipline;
 
     // Mapping par mot-clé (prioritaire)
-    if (name.includes('cross') || name.includes('fossé') || name.includes('tronc') || name.includes('gué')) return '/trail.png';
-    if (name.includes('détente') || name.includes('bien-être') || name.includes('relaxation') || name.includes('zen')) return '/equestrian_lifestyle_bg.png';
-    if (name.includes('galop')) return '/dressage.png';
-    if (name.includes('longe') || name.includes('pied') || name.includes('sol')) return '/groundwork.png';
-    if (name.includes('saut') || name.includes('obstacle') || name.includes('cavaletti')) return '/obstacle.png';
-    if (name.includes('cession') || name.includes('souplesse') || name.includes('dressage')) return '/dressage.png';
+    if (name.includes('cross') || name.includes('fossé') || name.includes('tronc') || name.includes('gué')) return base + 'trail.png';
+    if (name.includes('détente') || name.includes('bien-être') || name.includes('relaxation') || name.includes('zen')) return base + 'equestrian_lifestyle_bg.png';
+    if (name.includes('galop')) return base + 'dressage.png';
+    if (name.includes('longe') || name.includes('pied') || name.includes('sol')) return base + 'groundwork.png';
+    if (name.includes('saut') || name.includes('obstacle') || name.includes('cavaletti')) return base + 'obstacle.png';
+    if (name.includes('cession') || name.includes('souplesse') || name.includes('dressage')) return base + 'dressage.png';
+    if (name.includes('position') || name.includes('assiette') || name.includes('équilibre')) return base + 'equestrian_premium.png';
 
     // Fallback par discipline
     switch (discipline) {
-        case 'Dressage': return '/dressage.png';
-        case 'Obstacle': return '/obstacle.png';
-        case 'Cross & Extérieur sportif': return '/trail.png';
-        case 'Travail au sol': return '/groundwork.png';
-        case 'Détente & Bien-être': return '/equestrian_lifestyle_bg.png';
-        default: return '/equestrian_lifestyle_bg.png';
+        case 'Dressage': return base + 'dressage.png';
+        case 'Gymnastique en Saut & Cardio': return base + 'obstacle.png';
+        case 'Travail au sol': return base + 'groundwork.png';
+        case 'Détente & Bien-être': return base + 'equestrian_lifestyle_bg.png';
+        case 'Technique & Position': return base + 'equestrian_premium.png';
+        default: return base + 'equestrian_lifestyle_bg.png';
     }
 }

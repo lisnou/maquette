@@ -85,12 +85,11 @@ def audit_phase_test():
             if audio_files:
                 status["audio"] = "✅"
                 
-            # Restore notebook.md if missing
-            notebook_path = os.path.join(folder, "notebook.md")
-            # We want to create it anyway for the 17 sessions
-            with open(notebook_path, 'w', encoding='utf-8') as f:
-                f.write(f"# Compte-rendu : {session_name}\n\nDate : \nCheval : \n\n## Impressions\n\n## Points forts\n\n## Points à améliorer\n")
-            status["notebook"] = "✅ (Restauré)"
+            # Check notebook
+            if "notebook.md" in files:
+                status["notebook"] = "✅"
+            else:
+                status["notebook"] = "❌"
             
         results.append(status)
 

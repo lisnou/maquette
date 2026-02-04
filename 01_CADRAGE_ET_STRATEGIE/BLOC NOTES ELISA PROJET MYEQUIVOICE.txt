@@ -35,6 +35,7 @@ Phase 1 : MVP (Produit Minimum Viable)
 Application mobile avec séances audio pré-enregistrées
 
 Filtres : discipline, niveau cavalier, durée, thème (assouplissement, précision, transitions, etc.)
+Adaptation aux infrastructures : Séance calibrée selon la taille du terrain (20x40, 20x60, ou +) avec ajustement automatique des temps de pause entre les exercices.
 Lecture audio guidée pendant la séance
 Carnet de suivi simple (séances effectuées, notes personnelles)
 

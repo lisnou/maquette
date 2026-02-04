@@ -57,22 +57,26 @@ C'est un **guide vocal de poche** qui remplace la préparation fastidieuse et ap
 
 ## 📐 PARTIE 1 - STRUCTURE ET FORMATAGE
 
-### ✅ Écriture ligne par ligne (RÈGLE D'OR)
+### ✅ Écriture ligne par ligne et Groupement par Phases
 
-**UNE phrase = UNE ligne + [Pause : X secondes]**
+**RÈGLE D'OR : Le texte doit aider l'enregistrement sans hacher le savoir.**
 
-Cette règle permet de ne pas perdre le fil lors de l'enregistrement audio et garantit un rythme fluide.
+1. **Format d'enregistrement :** Garder l'écriture "Une ligne = Une phrase" pour le confort du lecteur audio.
+2. **Le Groupement Pédagogique (PRIME SUR TOUT) :** 
+    - **HORS EXERCICE :** On peut garder des petites pauses d'assimilation (3-5s) entre les phrases.
+    - **EN PHASE DE BRIEFING / ENGAGEMENT :** On enchaîne les phrases d'un même bloc de savoir **SANS PAUSE INTERMÉDIAIRE**. La pause n'intervient qu'à la FIN de la phase.
 
 ```
-✅ BON :
-Démarrez au pas actif sur la piste.
-[Pause : 3 secondes]
-Votre cheval doit marcher franchement.
-[Pause : 5 secondes]
+✅ BON (Structure par Phase) :
+Voici l'exercice : nous allons doubler en A pour une cession à gauche.  <-- Ligne 1
+Fixe ton regard sur C et prépare ta jambe droite reculée.             <-- Ligne 2
+[Pause : 12 secondes] (La pause n'arrive qu'après le bloc complet)
 
-❌ MAUVAIS :
-Démarrez au pas actif sur la piste. Votre cheval doit marcher franchement.
-[Pause : 8 secondes]
+❌ MAUVAIS (Haché et pénible) :
+Voici l'exercice : nous allons doubler en A pour une cession à gauche.
+[Pause : 3 secondes]  <-- ERREUR : Coupe le flux du cerveau
+Fixe ton regard sur C et prépare ta jambe droite reculée.
+[Pause : 12 secondes]
 ```
 
 ---
@@ -126,17 +130,22 @@ Si matériel nécessaire, lister exhaustivement tout ce dont le cavalier aura be
 
 ---
 
-### ✅ Silences habités (micro-consignes)
+### ✅ Silences habités (Soutien et Rappels Essentiels)
 
-**Règle :** Jamais plus de 20-30 secondes sans micro-consigne.
+**RÈGLE D'OR : Séparation du Savoir et du Soutien**
+1.  **AVANT l'effort (Le Savoir) :** 100% de l'explication technique, de la coordination des aides et des solutions aux erreurs (troubleshooting).
+2.  **PENDANT l'effort (Le Soutien) :** Uniquement des rappels de l'essentiel (posture stable) et de la motivation.
 
-Si silence > 20-30s → réinsérer une micro-consigne pour confirmer l'allure ou l'exercice en cours.
+**Rythme :** Jamais plus de 25-30 secondes de silence absolu.
+Si silence > 30s → réinsérer un micro-rappel qui ne demande aucune puissance de calcul au cavalier.
 
-**Exemples :**
-- "On reste au trot"
-- "Garde cette cadence"
-- "Continue sur le cercle"
-- "Maintiens ce trot régulier"
+**Exemples de soutien autorisé :**
+- "Respire"
+- "Garde ton regard loin"
+- "C'est bien, continue"
+- "Maintiens ce trot"
+
+**❌ INTERDICTION :** Ne jamais introduire un nouveau conseil technique ou une explication complexe une fois le silence d'exercice commencé.
 
 ```
 ✅ BON :
@@ -276,14 +285,25 @@ Si jamais il précipite et commence à courir, reprends le contact pour retrouve
 
 ## ⏱️ PARTIE 3 - BIEN-ÊTRE ET RYTHME
 
-### ✅ Échauffement au pas
+### ✅ Échauffement au pas (Sessions montées)
 
-**RÈGLE GÉNÉRALE : 5 minutes MINIMUM** (dont 2-3 min rênes longues)
+**RÈGLE D'OR : Les séances montées commencent directement en selle.** 
+
+- **Échauffement :** Uniquement par le mouvement (pas, trot, galop).
+- **Durée au pas :** 5 minutes MINIMUM (dont 2-3 min rênes longues).
+- **Structure :**
+  - [0:00 - 3:00] Introduction + Détente au pas rênes longues (2-3 min).
+  - [3:00 - 5:00] Pas actif rênes ajustées + début échauffement thématique.
 
 **ADAPTATION selon la séance :**
 - Séances courtes (20-30 min) : 5 minutes minimum
 - Séances intenses ou Obstacle : 7-10 minutes recommandées
 - Séances longues (45-60 min) : 10 minutes recommandées
+
+### ✅ Discipline "Travail au Sol" (Éthologie, Longue, Pied)
+- **Sécurité :** Rappeler systématiquement le respect des distances de sécurité.
+- **Pédagogie :** Privilégier la suggestion et les codes (vocaux/visuels) plutôt que la force physique. 
+- **Objectif :** Construire une communication fluide et sécurisée pour l'utilisateur.
 
 **Structure OBLIGATOIRE :**
 
@@ -478,26 +498,31 @@ Le cavalier doit TOUJOURS être au pas rênes longues (allure calme) avant le mo
 
 ## 📝 PARTIE 5 - VOCABULAIRE ET STYLE
 
-### ✅ Tutoiement OBLIGATOIRE
+### ✅ Le Naturel Oral (L'Effet "Moniteur en Live")
 
-**MyEquiVoice est un assistant audio proche du cavalier.**
+**MyEquiVoice n'est pas un manuel lu, c'est un moniteur qui te parle en direct dans la carrière.**
 
-Le "Tu" Assistant Personnel : Le tutoiement est la règle unique. Il doit être chaleureux et complice, jamais infantilisant.
-
-Le ton : On s'adresse au cavalier comme un assistant de confiance. On évite le ton impératif sec.
-
-Exemple : Préférer "Je t'invite à redresser ton buste" ou "Redresse ton buste" à "Tu dois te redresser". On cherche la clarté d'un guide, pas l'autorité d'un adjudant.
+- **RÈGLE D'OR :** Toute phrase qui ne peut pas être prononcée naturellement par un coach sur le bord de la piste est **INTERDITE**.
+- **Vocabulaire Scolaire Banni :** Interdiction d'utiliser des termes "administratifs" comme :
+    *   "Ta mission est de..." -> Préférer "L'idée, c'est de..."
+    *   "Voici le tracé..." -> Préférer "On va dessiner..."
+    *   "Exécute..." -> Préférer "Allez, demande..."
+    *   "La consigne est..." -> Préférer "Tiens, pense à..."
+- **Ponctuation Orale :** Utiliser des interjections qui donnent de la vie et de la chaleur : "Allez,", "Tiens,", "Voilà,", "C'est ça,", "Nickel,".
+- **Simplicité du Parler :** Préférer les tournures directes et les contractions naturelles du langage parlé. On ne cherche pas la belle prose, on cherche la connexion et la clarté immédiate.
 
 ### ✅ Phrases BANNIES et Interdictions Strictes
 
-| ❌ INTERDIT | ✅ ALTERNATIVE |
+| ❌ STYLE ÉCRIT / BANNIE | ✅ STYLE ORAL / COACH |
 |-------------|----------------|
-| **"Scan corporel"** | Intégrer : "Relâche tes épaules, descends tes talons" |
-| **"Relâcher mâchoires / dents"** | "Relâche tes épaules, détends ton dos" |
-| **"Logique"** | "Maintenant que..." / "C'est pour cela que..." |
-| **"Sortez du coin"** | "Prenez la diagonale après le coin du petit côté" |
-| **"Diagonale large"** | "Diagonale H-F" ou "M-K" |
-| **"Sens", "Cherche", "Essaie"** | **G1-G3 :** Verbes d'action ("Ferme tes doigts") <br> **G4+ :** Autorisé (ressenti) |
+| **"Ta mission / Ton objectif"** | "L'idée aujourd'hui...", "Ce qu'on va chercher..." |
+| **"Consigne / Exercice"** | "Travail", "Petit enchaînement", "Figure" |
+| **"Voici le tracé"** | "On va dessiner...", "On va s'occuper de..." |
+| **"Exécutez / Procédez"** | "Vas-y,", "Allez,", "Demande..." |
+| **"Scan corporel"** | "Relâche tes épaules, descends tes talons" |
+| **"Relâcher mâchoires"** | "Détends ton dos, respire" |
+| **"Logique"** | "Maintenant que...", "C'est pour ça que..." |
+| **"Sens", "Cherche" (G1-G3)** | **G1-G3 :** Verbes d'action directs ("Ferme tes doigts") |
 
 **Note :** Le terme "Sens" est autorisé pour tous les niveaux UNIQUEMENT dans les questions de réflexion (fin de séance).
 
@@ -716,7 +741,63 @@ Passe au trot.  ← Type de trot non précisé
 
 ---
 
-## 🏇 PARTIE 7 - RÈGLES SPÉCIFIQUES OBSTACLE
+---
+
+## 🗣️ PARTIE 7 - GESTION DU TIMING ET AUTONOMIE (FENÊTRE DE SILENCE)
+
+**RÈGLE D'OR : Pallier l'absence de synchronisation GPS par l'anticipation et la liberté d'exécution.**
+
+Pour tous les exercices géométriques précis (cessions, voltes, lignes d'obstacles), la structure du script doit impérativement suivre le modèle **"Briefing / Engagement / Silence"**.
+
+### 1. Le Briefing d'Anticipation (Le "Prochain Passage")
+- Donner l'exercice complet (Tracé + Objectif) et les **clés techniques brutes** (Accord des aides / Coordination).
+- Utiliser une introduction naturelle suivi de la formulation : **"Pour ton prochain passage en [Lettre]..."**.
+- **Raison :** Le cavalier doit avoir toute sa "checklist" matérielle et physique en tête bien avant d'approcher de la zone d'action.
+
+### 2. La Consigne d'Engagement (L'entrée dans l'exercice)
+- Donner la consigne de déclenchement ("Dès que tu tournes...") accompagnée du **Conseil de Sensation** (Légèreté, cadence, regard).
+- **Règle d'or du TROUBLESHOOTING (Universelle) :** Inclure impérativement la solution aux erreurs fréquentes **AVANT** le silence (ex: *"Si ton cheval se bloque, relance le pas immédiatement"*). 
+- **Application :** Cette règle est obligatoire pour **toutes les disciplines** (Dressage, Obstacle, Travail au sol). Le cavalier doit posséder la "boîte à outils" de correction AVANT d'être seul dans son silence.
+- **Interdiction :** Ne jamais donner de solution technique ou de correction *après* que l'exercice soit terminé.
+- **LE SIGNAL D'ACTION (OBLIGATOIRE) :** La phrase d'engagement doit impérativement se terminer par un signal oral court qui indique au cavalier qu'il peut commencer l'effort.
+    *   **Exemples :** "Allez, à toi !", "Vas-y,", "C'est à toi de jouer.", "Allez, lance-toi.".
+- **Raison :** Ne pas laisser le cavalier dans l'incertitude. Le signal marque la fin du savoir et le début de l'exécution (le silence).
+- **Formulation type :** "Dès que tu entames ton tournant, demande le décalage. Si le rythme se perd, privilégie l'avant avant de redemander."
+- **Note sur la Commande Vocale :** Optionnelle, jamais imposée.
+
+### 3. La Fenêtre d'Exécution (La Sensation avant tout)
+- Laisser un large bloc temporel (40 à 70s) pour réaliser l'effort.
+- **Principe du "Soutien Complice" :** Le cavalier a déjà reçu tout le **SAVOIR** technique dans le briefing. La fenêtre d'exécution est réservée à la **SENSATION**.
+- **Micro-interventions autorisées (max 5s) :**
+    *   **Rappels posturaux "flash" :** "Relâche tes épaules", "Regarde ta lettre", "Descends ton poids".
+    *   **Motivation pure :** "Super", "C'est ça", "Sens son dos qui monte".
+- **INTERDICTION FORMELLE :** Aucune nouvelle consigne technique, aucune explication sur les aides, aucune correction complexe. 
+- **Raison :** Respecter la charge mentale. À ce moment, le cavalier doit être 100% dans son cheval, pas dans l'audio.
+
+### Exemple de structure type :
+
+```
+✅ BON :
+Voici le prochain exercice : nous allons doubler en A pour une cession vers la gauche.
+[Pause : 10 secondes]
+Pour ton prochain passage en A, stabilise ta rectitude et demande le décalage.
+[Pause : 55 secondes] (Fenêtre de silence libre : calme total pour l'effort)
+```
+
+---
+
+## 🏆 PARTIE 8 - SYMÉTRIE OBLIGATOIRE (RÈGLE D'OR)
+
+**Pour garantir le développement physique harmonieux du cheval :**
+
+-   **RÈGLE 1 (TEMPS) :** Le temps de travail doit être rigoureusement identique à main gauche et à main droite
+-   **RÈGLE 2 (CONTENU) :** Les exercices doivent être strictement les mêmes d'une main à l'autre (mêmes figures, mêmes demandes)
+-   **RÈGLE 3 (STRUCTURE) :** Si un exercice dure 3 min à gauche, il DOIT durer 3 min à droite (ajuster les pauses si besoin)
+-   **EXCEPTION :** Sauf si l'objectif explicite de la séance est de corriger une dissymétrie (rare et signalé)
+
+---
+
+## 🏇 PARTIE 9 - RÈGLES SPÉCIFIQUES OBSTACLE
 
 ### ✅ Phase d'installation (HORS AUDIO - via POPUP)
 
@@ -918,8 +999,42 @@ En fin de séance, tu peux augmenter de cinq à dix centimètres si tu te sens �
 - 5 obstacles en parcours simple = parcours complet
 
 **Exemple mauvais :**
-- 10 obstacles différents = trop de matériel
-- Parcours nécessitant de déplacer les obstacles entre exercices
+-   10 obstacles différents = trop de matériel
+-   Parcours nécessitant de déplacer les obstacles entre exercices
+
+---
+
+### ✅ Faisabilité Technique & Gestion de l'Espace
+
+**RÈGLE D'OR : Toute séance MyEquiVoice doit pouvoir être réalisée en toute sécurité dans un manège standard de 20x40m (surface réduite).**
+
+#### 1. Zones de Sécurité (Abord et Réception)
+En mode "coaching audio autonome", le cavalier a besoin de plus d'espace pour se réorganiser qu'avec un coach présent physiquement.
+- **Abord sécurisé :** Prévoir au minimum **8 à 10 mètres** de ligne droite avant le premier obstacle pour stabiliser le galop. 
+- **Réception sécurisée :** Prévoir au minimum **8 à 10 mètres** après le dernier saut avant d'entamer un tournant ou d'arriver au pare-bottes.
+- **Espace latéral :** Ne jamais placer un obstacle à moins de **6 mètres** d'une lice latérale pour permettre un passage de piste fluide.
+
+#### 2. Calcul des Distances entre Obstacles (Standard Cheval)
+*Basé sur une foulée moyenne de 3,50m à l'obstacle.*
+| Nombre de foulées | Distance (mètre à mètre) | Usage Type |
+| :--- | :--- | :--- |
+| **0 (Saut de puce)** | 3,00m à 3,50m | Gymnastique / Réactivité |
+| **1 foulée** | 7,00m à 7,50m | Gymnastique / Combinaison |
+| **2 foulées** | 10,00m à 10,50m | Lignes techniques |
+| **3 foulées** | 13,50m à 14,50m | Lignes de confort / Apprentissage |
+| **4 foulées** | 17,00m à 18,00m | Rythme et équilibre |
+| **5 foulées** | 20,50m à 21,50m | Limite max en manège de 40m |
+
+#### 3. Faisabilité en 20x40m
+- **Longueur maximale d'une ligne :** En comptant 10m d'abord et 10m de réception, la partie "sautée" ne doit pas dépasser **20 mètres** de long.
+- **Exemple de ligne maximale :** 3 obstacles séparés par 2 foulées (2 x 10m = 20m) ou 2 obstacles séparés par 4 foulées (1 x 17,50m).
+
+#### 5. Adaptabilité Temporelle (Taille du Terrain)
+Chaque script doit prévoir un "coefficient de temps" selon l'infrastructure choisie par l'utilisateur :
+- **Petit Manège (15x30m)** : Pauses standards.
+- **Carrière Standard (20x40m)** : Pauses standards + 5 secondes sur les phases de transition de piste.
+- **Grande Carrière (20x60m / +)** : Pauses standards + 10 à 15 secondes sur les phases de doublers ou changements de main.
+*Note : Cette variable sera gérée par l'IA lors de la génération de l'audio final.*
 
 ---
 
@@ -927,10 +1042,14 @@ En fin de séance, tu peux augmenter de cinq à dix centimètres si tu te sens �
 
 **Rappel des règles spécifiques obstacle :**
 
-1. **Consignes AVANT l'engagement** (jamais pendant le saut)
-2. **Silences longs** pendant les passages (40-60 secondes)
-3. **Maximum 1-2 rappels généraux** pendant le passage (regard, position)
-4. **JAMAIS de consignes techniques précises** pendant le saut
+1.  **Consignes AVANT l'engagement** (jamais pendant le saut)
+2.  **L'anticipation par le regard :** Toujours inclure un rappel lors de l'abord (phase de préparation) invitant le cavalier à porter son regard au-delà de l'obstacle dès la phase de plané, pour anticiper la direction ou l'enchaînement suivant.
+    -   *Exemple : "Prépare ton tournant dès maintenant, tes yeux doivent déjà chercher la sortie avant même de toucher le sol."*
+3.  **La réception dirigée (G5 et +) :** Pour les niveaux confirmés, intégrer un rappel technique sur la gestion de l'équilibre à l'abord pour favoriser la réception sur le bon pied. Rappeler l'importance de l'orientation du regard et du léger report de poids à l'intérieur de la future courbe pendant la phase de vol.
+    -   *Exemple : "Pour réceptionner à la main gauche, oriente ton regard vers ta nouvelle direction et soutiens légèrement ta rêne gauche pendant le planer."*
+4.  **Silences longs** pendant les passages (40-60 secondes)
+5.  **Maximum 1-2 rappels généraux** pendant le passage (regard, position)
+6.  **JAMAIS de consignes techniques précises** pendant le saut
 
 **Exemple :**
 
@@ -940,13 +1059,10 @@ Si ton cheval accélère, reprends doucement le contact.
 [Pause : 3 secondes]
 Si il ralentit, ferme tes jambes pour maintenir l'impulsion.
 [Pause : 5 secondes]
+Anticipe ta réception en portant tes yeux vers ton prochain tournant.
+[Pause : 5 secondes]
 Engage-toi sur la ligne.
 [ATTENTE : 50 secondes]
-
-❌ MAUVAIS :
-Engage-toi sur la ligne.
-[ATTENTE : 20 secondes]
-Attention, ferme tes jambes maintenant !  ← Trop tard, déconcentre le cavalier
 ```
 
 ---
@@ -955,10 +1071,10 @@ Attention, ferme tes jambes maintenant !  ← Trop tard, déconcentre le cavalie
 
 **Pour les séances OBSTACLE :**
 
-- **Pas besoin de préciser les lettres de manège** (obstacles peuvent être partout)
-- **TOUJOURS préciser l'allure lors des transitions**
-- **Rappeler la jambe isolée pour G2-3 et G3-4**
-- **Faire vérifier le bon pied au galop pour G2-3 et G3-4**
+-   **Pas besoin de préciser les lettres de manège** (obstacles peuvent être partout)
+-   **TOUJOURS préciser l'allure lors des transitions**
+-   **Rappeler la jambe isolée pour G2-3 et G3-4**
+-   **Faire vérifier le bon pied au galop pour G2-3 et G3-4**
 
 **Exemple pour G2-3 et G3-4 :**
 
@@ -976,45 +1092,91 @@ Vérifie que tu es bien sur le bon pied : la jambe intérieure de ton cheval doi
 ```
 
 **Pour G5-6 et G7+ :**
-- Préciser l'allure lors des transitions
-- Rappel jambe isolée uniquement si nécessaire (pas systématique)
-- Vérification du pied moins systématique (automatismes acquis)
+-   Préciser l'allure lors des transitions
+-   Rappel jambe isolée uniquement si nécessaire (pas systématique)
+-   Vérification du pied moins systématique (automatismes acquis)
 
 ---
 
 ### ✅ Schémas visuels (progression future)
 
 **Pour l'instant :**
-- Description textuelle détaillée dans le script
-- Note : "Schéma visuel disponible sous le player audio"
+-   Description textuelle détaillée dans le script
+-   Note : "Schéma visuel disponible sous le player audio"
 
 **À terme :**
-- Plan du manège vu du dessus
-- Obstacles différenciés (croix, verticaux, oxers)
-- Tracé avec flèches directionnelles
-- Distances en mètres et foulées
-- Numérotation claire
+-   Plan du manège vu du dessus
+-   Obstacles différenciés (croix, verticaux, oxers)
+-   Tracé avec flèches directionnelles
+-   Distances en mètres et foulées
+-   Numérotation claire
 
 
-
-## 🏆 PARTIE 8 - SYMÉTRIE OBLIGATOIRE (RÈGLE D'OR)
-
-**Pour garantir le développement physique harmonieux du cheval :**
-
-- **RÈGLE 1 (TEMPS) :** Le temps de travail doit être rigoureusement identique à main gauche et à main droite
-- **RÈGLE 2 (CONTENU) :** Les exercices doivent être strictement les mêmes d'une main à l'autre (mêmes figures, mêmes demandes)
-- **RÈGLE 3 (STRUCTURE) :** Si un exercice dure 3 min à gauche, il DOIT durer 3 min à droite (ajuster les pauses si besoin)
-- **EXCEPTION :** Sauf si l'objectif explicite de la séance est de corriger une dissymétrie (rare et signalé)
 
 ---
 
+## �️ PARTIE 10 - SÉCURITÉ ET JURIDIQUE : LE PROTOCOLE D'INVISIBILITÉ
 
+**RÈGLE D'OR : Le secret, c'est l'Invisibilité Juridique. On ne doit pas entendre la contrainte, on doit ressentir l'expertise.**
 
+### 1. Le Rituel de Mise en Route (L'Airbag en douceur)
+Chaque séance **DOIT** débuter par une phase de "prévention active" intégrée à l'échauffement au pas (pendant la 1ère ou 2ème minute).
+- **Objectif :** Vérification du matériel (sangle, casque) et de l'environnement (priorités, zones libres).
+- **Style :** Transformer la contrainte en un moment de connexion et de professionnalisme.
+- **Exemple MEV :** *"Profite de ce début de séance au pas pour vérifier que ta sangle est bien en place. Jette un œil autour de toi : identifie qui partage la piste avec toi et repère les zones libres pour tes futurs tracés."*
 
+### 2. Le Cavalier Pilote (Engagement de Responsabilité)
+Pour réaffirmer juridiquement que le cavalier est le seul décisionnaire, le script **NE DOIT JAMAIS** utiliser d'ordres absolus dans les phases critiques.
+- **Règle :** Privilégier systématiquement le conditionnel ou les clauses de décision.
+- **Vocabulaire obligatoire :** "Si l'espace est libre...", "Dès que tu sens ton cheval prêt...", "Si tu le souhaites...", "À ton rythme...".
+- **Interdiction :** "Maintenant, pars au galop !" (Ordre direct sans nuance de sécurité).
+- **Correction MEV :** *"Dès que ta piste est libre, demande le départ au galop."*
 
+### 3. La Sécurité par la Performance (Le Conseil à Double Détente)
+Toute règle de sécurité pure (priorités, distances) **DOIT** être déguisée en conseil technique de haute performance.
+- **Le Regard :** Ne pas dire "Regarde si quelqu'un arrive", mais "Porte ton regard loin vers la lettre E pour anticiper ta trajectoire".
+- **L'Espace :** Ne pas dire "Gardez vos distances", mais "Prends ton espace pour laisser ton cheval s'exprimer sans contraintes".
+- **La Distance :** Ne pas dire "Ne collez pas le cheval de devant", mais "Garde une fenêtre de visibilité vers l'avant pour rester maître de ton équilibre".
 
+### 4. L'Ancrage Spatial Système (Le GPS de Sécurité)
+L'utilisation des lettres n'est pas qu'un outil pédagogique, c'est un rempart juridique contre l'imprécision des tracés qui cause les collisions.
+- **Règle :** Chaque transition ou changement de direction majeur **DOIT** être lié à une lettre ou un marqueur visuel précis.
+- **But :** Éviter les trajectoires erratiques.
 
-### Script modèle parfait : Engagement des postérieurs (G4-5) - 30 min
+### 5. La Récupération Physiologique et Conclusion
+- **La Pause :** La minute de repos après l'effort doit être vendue comme un bénéfice locomotion/moral (*"Laisse-le marcher rênes longues pour oxygéner ses muscles"*).
+- **La Descente :** La séance doit se conclure par un rappel bienveillant de la sécurité à pied.
+- **Exemple MEV :** *"Prends le temps de caresser ton cheval et descends en sécurité une fois que tu as rejoint une zone calme."*
+
+---
+
+## 📖 PARTIE 11 - GLOSSAIRE DES TERMES TECHNIQUES
+
+**Engagement des postérieurs :** Action des postérieurs qui s'engagent sous la masse pour propulser le cheval vers l'avant et vers le haut.
+
+**Rectitude :** Capacité du cheval à rester droit dans ses épaules et ses hanches, sans déviation latérale.
+
+**Impulsion :** Énergie contrôlée qui pousse le cheval vers l'avant avec franchise et régularité.
+
+**Cadence :** Rythme régulier et mesuré de l'allure.
+
+**Amplitude :** Étendue du geste locomoteur, longueur des foulées.
+
+**Rassembler :** Concentration de l'énergie du cheval, report du poids sur l'arrière-main, élévation de l'avant-main.
+
+**Cession à la jambe :** Déplacement latéral du cheval, membres se croisant, légère incurvation du côté opposé au déplacement.
+
+**Épaule en dedans :** Exercice de deux pistes où les épaules décrivent une piste intérieure aux hanches, incurvation du côté du déplacement.
+
+**Appuyer :** Déplacement latéral avec incurvation du côté du déplacement, regard tourné dans la direction du mouvement.
+
+**Contre-galop :** Galop sur le pied extérieur (ex: galop à droite en tournant à gauche).
+
+---
+
+## �📝 PARTIE 12 - EXEMPLE DE SCRIPT TYPE (PERFORMANCE)
+
+### Script modèle : Engagement des postérieurs (G4-5) - 30 min
 
 **Note de matériel :** Aucun équipement.
 
@@ -1064,7 +1226,7 @@ Marche de B vers A en maintenant l'activité.
 On continue le triangle, transition au trot à la lettre A.
 [Pause : 20 secondes]
 Maintiens ce trot régulier, fixe tes mains devant toi.
-[Pause : 30 secondes]
+[Pause : 30 seconds]
 Repasse au pas à la lettre E.
 [Pause : 15 secondes]
 Change de main en passant par la diagonale.
@@ -1224,7 +1386,42 @@ Merci pour ton écoute et à très bientôt !
 
 ---
 
-## 📖 GLOSSAIRE DES TERMES TECHNIQUES
+## 🛡️ PARTIE 11 - SÉCURITÉ ET JURIDIQUE : LE PROTOCOLE D'INVISIBILITÉ
+
+**RÈGLE D'OR : Le secret, c'est l'Invisibilité Juridique. On ne doit pas entendre la contrainte, on doit ressentir l'expertise.**
+
+### 1. Le Rituel de Mise en Route (L'Airbag en douceur)
+Chaque séance **DOIT** débuter par une phase de "prévention active" intégrée à l'échauffement au pas (pendant la 1ère ou 2ème minute).
+- **Objectif :** Vérification du matériel (sangle, casque) et de l'environnement (priorités, zones libres).
+- **Style :** Transformer la contrainte en un moment de connexion et de professionnalisme.
+- **Exemple MEV :** *"Profite de ce début de séance au pas pour vérifier que ta sangle est bien en place. Jette un œil autour de toi : identifie qui partage la piste avec toi et repère les zones libres pour tes futurs tracés."*
+
+### 2. Le Cavalier Pilote (Engagement de Responsabilité)
+Pour réaffirmer juridiquement que le cavalier est le seul décisionnaire, le script **NE DOIT JAMAIS** utiliser d'ordres absolus dans les phases critiques.
+- **Règle :** Privilégier systématiquement le conditionnel ou les clauses de décision.
+- **Vocabulaire obligatoire :** "Si l'espace est libre...", "Dès que tu sens ton cheval prêt...", "Si tu le souhaites...", "À ton rythme...".
+- **Interdiction :** "Maintenant, pars au galop !" (Ordre direct sans nuance de sécurité).
+- **Correction MEV :** *"Dès que ta piste est libre, demande le départ au galop."*
+
+### 3. La Sécurité par la Performance (Le Conseil à Double Détente)
+Toute règle de sécurité pure (priorités, distances) **DOIT** être déguisée en conseil technique de haute performance.
+- **Le Regard :** Ne pas dire "Regarde si quelqu'un arrive", mais "Porte ton regard loin vers la lettre E pour anticiper ta trajectoire".
+- **L'Espace :** Ne pas dire "Gardez vos distances", mais "Prends ton espace pour laisser ton cheval s'exprimer sans contraintes".
+- **La Distance :** Ne pas dire "Ne collez pas le cheval de devant", mais "Garde une fenêtre de visibilité vers l'avant pour rester maître de ton équilibre".
+
+### 4. L'Ancrage Spatial Système (Le GPS de Sécurité)
+L'utilisation des lettres n'est pas qu'un outil pédagogique, c'est un rempart juridique contre l'imprécision des tracés qui cause les collisions.
+- **Règle :** Chaque transition ou changement de direction majeur **DOIT** être lié à une lettre ou un marqueur visuel précis.
+- **But :** Éviter les trajectoires erratiques.
+
+### 5. La Récupération Physiologique et Conclusion
+- **La Pause :** La minute de repos après l'effort doit être vendue comme un bénéfice locomotion/moral (*"Laisse-le marcher rênes longues pour oxygéner ses muscles"*).
+- **La Descente :** La séance doit se conclure par un rappel bienveillant de la sécurité à pied.
+- **Exemple MEV :** *"Prends le temps de caresser ton cheval et descends en sécurité une fois que tu as rejoint une zone calme."*
+
+---
+
+## 📖 PARTIE 12 - GLOSSAIRE DES TERMES TECHNIQUES
 
 **Engagement des postérieurs :** Action des postérieurs qui s'engagent sous la masse pour propulser le cheval vers l'avant et vers le haut.
 
@@ -1248,7 +1445,10 @@ Merci pour ton écoute et à très bientôt !
 
 ---
 
-## ✅ PARTIE 9 - CHECKLIST DE VALIDATION FINALE
+---
+
+## ✅ PARTIE 13 - CHECKLIST DE VALIDATION FINALE
+
 
 **🚨 RÈGLE D'OR : Consulter cette checklist AVANT chaque création/correction de script**
 
@@ -1258,66 +1458,71 @@ Cette checklist synthétise toutes les règles de la charte sous forme de points
 
 ### ✅ 1. FORMATAGE ET STRUCTURE
 
-- [ ] Écriture ligne par ligne : UNE phrase = UNE ligne + [Pause : X secondes]
-- [ ] Balises [Pause : X secondes] après CHAQUE ligne
-- [ ] Note de matériel au début du script
-- [ ] Titres de sections avec timecodes : [SECTION] (XX:XX - XX:XX)
-- [ ] Tutoiement intégral (jamais de vouvoiement)
+-   [ ] Écriture ligne par ligne : UNE phrase = UNE ligne + [Pause : X secondes]
+-   [ ] Balises [Pause : X secondes] après CHAQUE ligne
+-   [ ] Note de matériel au début du script
+-   [ ] Titres de sections avec timecodes : [SECTION] (XX:XX - XX:XX)
+-   [ ] Tutoiement intégral (jamais de vouvoiement)
 
 ---
 
 ### ✅ 2. ÉCHAUFFEMENT ET RÉCUPÉRATION
 
-- [ ] Échauffement au pas **5 minutes MINIMUM** (dont 2-3 min rênes longues)
-- [ ] Pour séances INTENSES ou OBSTACLE : 7-10 minutes recommandées
-- [ ] Pauses de récupération **60 secondes MINIMUM** entre chaque bloc d'exercice
-- [ ] Échauffement **original et thématique** (pas toujours cercles/diagonales)
-- [ ] Échauffement adapté au thème de la séance
+-   [ ] Échauffement au pas **5 minutes MINIMUM** (dont 2-3 min rênes longues)
+-   [ ] Pour séances INTENSES ou OBSTACLE : 7-10 minutes recommandées
+-   [ ] Pauses de récupération **60 secondes MINIMUM** entre chaque bloc d'exercice
+-   [ ] Échauffement **original et thématique** (pas toujours cercles/diagonales)
+-   [ ] Échauffement adapté au thème de la séance
 
+**Sécurité Invisible (Rituel) :**
+-   [ ] Inclusion d'un rituel de "Mise en route" (Matériel/Environnement) dans les 2 premières minutes
+-   [ ] Formulation valorisante ("Rituel de pro", "Connexion") et non juridique brute
+
+---
 **Pour séances OBSTACLE :**
-- [ ] Échauffement progressif : BEAUCOUP de pas (3-4min), MOYENNEMENT de trot (2-3min), PEU de galop (1-2min)
+-   [ ] Échauffement progressif : BEAUCOUP de pas (3-4min), MOYENNEMENT de trot (2-3min), PEU de galop (1-2min)
 
 ---
 
 ### ✅ 3. VOCABULAIRE ET PÉDAGOGIE
 
-- [ ] Verbes d'action CONCRETS : pas "sens", "cherche", "accompagne", "essaie" (sauf G4+ pour ressenti)
-- [ ] Schéma Préparation/Action/Sortie appliqué
-- [ ] Vocabulaire adapté au niveau :
-  - G2-3 : Imagé, métaphores, peu de termes techniques
-  - G3-4 : Introduction termes techniques (engagement, rectitude)
-  - G4-5 : Termes précis (impulsion, rassembler, cadence)
-  - G4+ : Focus ressenti fin, locomotion, équilibre
-- [ ] Transparence pédagogique : inclure le "pourquoi" entre exercices
-- [ ] Conseils donnés AVANT les passages/exercices (pas après)
-- [ ] Anticipation des erreurs ("Si jamais...")
+-   [ ] Verbes d'action CONCRETS : pas "sens", "cherche", "accompagne", "essaie" (sauf G4+ pour ressenti)
+-   [ ] Schéma Préparation/Action/Sortie appliqué
+-   [ ] Vocabulaire adapté au niveau :
+    -   G2-3 : Imagé, métaphores, peu de termes techniques
+    -   G3-4 : Introduction termes techniques (engagement, rectitude)
+    -   G4-5 : Termes précis (impulsion, rassembler, cadence)
+    -   G4+ : Focus ressenti fin, locomotion, équilibre
+-   [ ] Transparence pédagogique : inclure le "pourquoi" entre exercices
+-   [ ] Conseils donnés AVANT les passages/exercices (pas après)
+-   [ ] Anticipation des erreurs ("Si jamais...")
 
 ---
 
 ### ✅ 4. INTERDICTIONS STRICTES
 
-- [ ] ❌ Aucune mention de "scan corporel"
-- [ ] ❌ Aucune mention de "mâchoires" ou "dents"
-- [ ] ❌ Pas "Logique" → utiliser "Maintenant que..." / "C'est pour cela que..."
-- [ ] ❌ Pas "Sortez du coin" → "Prenez la diagonale après le coin"
-- [ ] ❌ Pas de consignes inutiles (ex: diagonale avant galop/pas)
+-   [ ] ❌ Aucune mention de "scan corporel"
+-   [ ] ❌ Aucune mention de "mâchoires" ou "dents"
+-   [ ] ❌ Pas "Logique" → utiliser "Maintenant que..." / "C'est pour cela que..."
+-   [ ] ❌ Pas "Sortez du coin" → "Prenez la diagonale après le coin"
+-   [ ] ❌ Pas de consignes inutiles (ex: diagonale avant galop/pas)
 
 ---
 
 ### ✅ 5. FEEDBACKS ET MOTIVATION
 
-- [ ] Feedbacks variés (max 2× par mot : "Très bien", "Parfait", "Excellent", "Super", "Nickel", "Impeccable", "C'est bien")
-- [ ] Phrase encourageante variée en conclusion
-- [ ] Dosage : 1 encouragement durant l'exercice difficile + 1 en conclusion
-- [ ] Conclusion chaleureuse (jamais "C'est fini au revoir")
+-   [ ] Feedbacks variés (max 2× par mot : "Très bien", "Parfait", "Excellent", "Super", "Nickel", "Impeccable", "C'est bien")
+-   [ ] Phrase encourageante variée en conclusion
+-   [ ] Dosage : 1 encouragement durant l'exercice difficile + 1 en conclusion
+-   [ ] Conclusion chaleureuse (jamais "C'est fini au revoir")
 
 ---
 
 ### ✅ 6. SILENCES ET MICRO-CONSIGNES
 
-- [ ] Micro-consignes dans les silences > 20-30s : "On reste au trot", "Garde cette cadence"
-- [ ] Pauses cohérentes avec le temps réel d'exécution
-- [ ] Temps de replacement inclus (si exercice à répéter d'un point précis)
+-   [ ] Micro-consignes dans les silences > 20-30s : "On reste au trot", "Garde cette cadence"
+-   [ ] Pauses cohérentes avec le temps réel d'exécution
+-   [ ] Temps de replacement inclus (si exercice à répéter d'un point précis)
 
 ---
 
@@ -1326,92 +1531,95 @@ Cette checklist synthétise toutes les règles de la charte sous forme de points
 #### **POUR G2-3 ET G3-4 UNIQUEMENT :**
 
 **Diagonal (trot enlevé) :**
-- [ ] 1ère fois au trot : Explication complète
-- [ ] Changements de main suivants : Rappel simple "Change de diagonal"
-- [ ] ⚠️ SAUF si cavalier va passer au pas ou galop juste après
-- [ ] Ne PAS mentionner si le trot s'arrête immédiatement après
+-   [ ] 1ère fois au trot : Explication complète
+-   [ ] Changements de main suivants : Rappel simple "Change de diagonal"
+-   [ ] ⚠️ SAUF si cavalier va passer au pas ou galop juste après
+-   [ ] Ne PAS mentionner si le trot s'arrête immédiatement après
 
 **Pied (galop) :**
-- [ ] 1er galop : Explication complète avec jambe isolée
-- [ ] Départs suivants : Rappel simple "Vérifie ton pied" ou "Vérifie d'être sur le bon pied"
+-   [ ] 1er galop : Explication complète avec jambe isolée
+-   [ ] Départs suivants : Rappel simple "Vérifie ton pied" ou "Vérifie d'être sur le bon pied"
 
 **Type de trot :**
-- [ ] Toujours préciser "trot enlevé" (ex: "Passe au trot enlevé sur la piste")
-- [ ] ❌ JAMAIS de trot assis (sauf séances Mise en Selle avec séquences courtes)
-- [ ] EXCEPTION "MISE EN SELLE" : Trot assis par séquences très courtes (3-4 foulées) + rappels constants :
-  - "Ne serre pas les genoux" (ennemi n°1)
-  - "Jambes lourdes qui descendent"
-  - "Serrer les mollets, pas les genoux"
-  - "Respirer pour décontracter le bassin"
+-   [ ] Toujours préciser "trot enlevé" (ex: "Passe au trot enlevé sur la piste")
+-   [ ] **Type de trot (Standard Pilotage) :** 
+    -   **Trot ASSIS** obligatoire pour les phases techniques (préparation de transitions, tracés précis, début d'exercices).
+    -   **Rappel de décontraction :** Pour ces niveaux, accompagner systématiquement le passage au trot assis par des consignes flash : "ne serre pas les genoux", "respire", "jambes lourdes".
+    -   **Trot ENLEVÉ** pour les phases de mouvement, d'allongement et de détente.
 
 **Répétition des exercices :**
-- [ ] Répéter TOUTES les consignes à la 2ème main (besoin de guidance complète)
+-   [ ] Répéter TOUTES les consignes à la 2ème main (besoin de guidance complète)
 
 #### **POUR G4-5 :**
-- [ ] Diagonal/Pied : Pas d'explication (automatismes acquis), éventuellement 1 rappel max
-- [ ] Type de trot : "Trot enlevé" par défaut, trot assis optionnel avec choix laissé au cavalier
-- [ ] Répétition : Ne PAS répéter toutes les consignes à la 2ème main (simplement "Change de main et recommence")
+-   [ ] Diagonal/Pied : Pas d'explication (automatismes acquis), éventuellement 1 rappel max
+-   [ ] **Type de trot (Standard Pilotage) :** 
+    -   **Trot ASSIS** pour le **Trot Raccourci** et le rééquilibrage.
+    -   **Trot ENLEVÉ** pour le **Trot de Travail** et le **Trot Allongé**.
+-   [ ] **Aides d'amplitude :** Préciser l'action **alternée** (pousser avec la jambe l'épaule opposée qui avance).
+-   [ ] Répétition : Ne PAS répéter toutes les consignes à la 2ème main (simplement "Change de main et recommence")
 
 #### **POUR G5-6 ET AU-DESSUS :**
-- [ ] Diagonal/Pied : Pas d'explication ni de vérification
-- [ ] Type de trot : Alterner selon l'exercice
-  - Trot ASSIS pour exercices techniques (cessions, épaule en dedans, transitions)
-  - Trot ENLEVÉ pour échauffement et récupération
-- [ ] Toujours préciser explicitement "trot assis" ou "trot enlevé"
-- [ ] Répétition : Ne PAS répéter les consignes à la 2ème main
+-   [ ] Diagonal/Pied : Pas d'explication ni de vérification
+-   [ ] **Type de trot (Standard Pilotage) :** 
+    -   **Trot ASSIS** pour exercices techniques (cessions, épaule en dedans, transitions rassemblées, travail raccourci).
+    -   **Trot ENLEVÉ** pour échauffement, récupération et travail d'amplitude (allongements).
+-   [ ] Toujours préciser explicitement "trot assis" ou "trot enlevé"
+-   [ ] Répétition : Ne PAS répéter les consignes à la 2ème main (G6+) ou de façon très allégée (G5)
 
 ---
 
 ### ✅ 8. RÈGLE DU GALOP PLAISIR OPTIONNEL
 
 #### **Pour séances G2-3 :**
-- [ ] ❌ PAS de galop sur séances très techniques (rectitude, précision, souplesse latérale)
+-   [ ] ❌ PAS de galop sur séances très techniques (rectitude, précision, souplesse latérale)
 
 #### **Pour séances G4-5+ de dressage technique :**
-- [ ] Structure en 2 phases :
-  1. Corps de séance (80%) : Travail technique PAS/TROT uniquement
-  2. Phase finale (3-5 min) : Galop plaisir optionnel (clairement présenté comme récompense)
+-   [ ] Structure en 2 phases :
+    1.  Corps de séance (80%) : Travail technique PAS/TROT uniquement
+    2.  Phase finale (3-5 min) : Galop plaisir optionnel (clairement présenté comme récompense)
 
 #### **Séances où le galop fait partie intégrante :**
-- [ ] Engagement des postérieurs, Transitions fluides, Impulsion, Variations d'amplitude, Séances dédiées au galop
+-   [ ] Engagement des postérieurs, Transitions fluides, Impulsion, Variations d'amplitude, Séances dédiées au galop
 
 ---
 
 ### ✅ 9. RÈGLES SPÉCIFIQUES OBSTACLE (si applicable)
 
 **Installation et matériel :**
-- [ ] ❌ PAS de phase d'installation dans l'audio (gérée par POPUP avant lancement)
-- [ ] ✅ L'audio commence directement avec cavalier EN SELLE
-- [ ] Maximum 2-3 dispositifs par séance
-- [ ] Maximum 4-6 obstacles physiques au total
-- [ ] Hauteurs recommandées strictement respectées selon niveau
-- [ ] Note sur l'ajustement possible des hauteurs selon aisance
+-   [ ] ❌ PAS de phase d'installation dans l'audio (gérée par POPUP avant lancement)
+-   [ ] ✅ L'audio commence directement avec cavalier EN SELLE
+-   [ ] Maximum 2-3 dispositifs par séance
+-   [ ] Maximum 4-6 obstacles physiques au total
+-   [ ] Hauteurs recommandées strictement respectées selon niveau
+-   [ ] Note sur l'ajustement possible des hauteurs selon aisance
 
 **Échauffement Obstacle :**
-- [ ] BEAUCOUP de pas (3-4 min), MOYENNEMENT de trot (2-3 min), PEU de galop (1-2 min)
-- [ ] Jamais fatiguer le cheval au galop AVANT les obstacles
+-   [ ] BEAUCOUP de pas (3-4 min), MOYENNEMENT de trot (2-3 min), PEU de galop (1-2 min)
+-   [ ] Jamais fatiguer le cheval au galop AVANT les obstacles
 
 **Répétitions :**
-- [ ] 1-2 passages au trot + 2-3 passages au galop MAX par dispositif
-- [ ] Qualité > Quantité (si bien exécuté, ne pas insister)
+-   [ ] 1-2 passages au trot + 2-3 passages au galop MAX par dispositif
+-   [ ] Qualité > Quantité (si bien exécuté, ne pas insister)
 
 **Faisabilité Trot vs Galop :**
-- [ ] Vérifier que les distances entre obstacles permettent le passage au trot
-- [ ] Barres au sol 1m30-1m40 = Trot uniquement
-- [ ] Ligne serrée 6-7m (1F) = Trot + Galop
-- [ ] Bounce 3m (0F) = Trot + Galop
-- [ ] Combinaison 7m+10m = Galop uniquement
-- [ ] Hauteur > 80cm = Galop uniquement
+-   [ ] Vérifier que les distances entre obstacles permettent le passage au trot
+-   [ ] Barres au sol 1m30-1m40 = Trot uniquement
+-   [ ] Ligne serrée 6-7m (1F) = Trot + Galop
+-   [ ] Bounce 3m (0F) = Trot + Galop
+-   [ ] Combinaison 7m+10m = Galop uniquement
+-   [ ] Hauteur > 80cm = Galop uniquement
 
 **Consignes pendant passages :**
-- [ ] Consignes AVANT l'engagement (jamais pendant le saut)
-- [ ] Silences longs pendant passages (40-60 secondes)
-- [ ] Maximum 1-2 rappels généraux (regard, position)
-- [ ] JAMAIS de consignes techniques précises pendant le saut
+-   [ ] Consignes AVANT l'engagement (jamais pendant le saut)
+-   [ ] **Anticipation du regard :** Rappel systématique avant le saut de regarder la sortie/direction suivante
+-   [ ] **Réception dirigée (G5+) :** Rappel technique sur l'équilibre et le regard au planer pour le bon pied
+-   [ ] Silences longs pendant passages (40-60 secondes)
+-   [ ] Maximum 1-2 rappels généraux (regard, position)
+-   [ ] JAMAIS de consignes techniques précises pendant le saut
 
 **Timing :**
-- [ ] Durée annoncée = durée réelle (pauses calibrées)
-- [ ] Inclure temps de retour au départ dans les pauses
+-   [ ] Durée annoncée = durée réelle (pauses calibrées)
+-   [ ] Inclure temps de retour au départ dans les pauses
 
 ---
 
@@ -1419,11 +1627,20 @@ Cette checklist synthétise toutes les règles de la charte sous forme de points
 - [ ] Originalité du tracé : pas toujours cercles/diagonales
 - [ ] Sobriété matérielle : intelligence du tracé, pas du matériel
 - [ ] Tracés variés : transitions dans le pli, enchaînements non-conventionnels, tracés hybrides
-- [ ] Au moins un exercice au tracé "original" ou ludique par séance
+-   [ ] Au moins un exercice au tracé "original" ou ludique par séance
 
 ---
 
-### ✅ 11. MOMENT DE RÉFLEXION ET CONCLUSION
+### ✅ 11. SÉCURITÉ ET JURIDIQUE (PROTOCOLE MEV)
+-   [ ] **Cavalier Pilote :** Utilisation systématique de clauses conditionnelles ("Si...", "Dès que...")
+-   [ ] **Ordres Absolus :** ZÉRO ordre impératif sans nuance de sécurité/espace libre
+-   [ ] **Sécurité par la Performance :** Règles de sécurité déguisées en conseils (Regard, Anticipation, Espace)
+-   [ ] **Ancrage Spatial :** Utilisation systématique des lettres pour sécuriser les trajectoires
+-   [ ] **Conclusion :** Rappel bienveillant de descendre en sécurité
+
+---
+
+### ✅ 12. MOMENT DE RÉFLEXION ET CONCLUSION
 - [ ] Bloc "(XX:XX) Moment de réflexion" AVANT la phase finale de repos
 - [ ] Cavalier doit être au PAS rênes longues (jamais au trot/galop)
 - [ ] 2-3 questions pour analyser le ressenti ("As-tu senti...")
@@ -1431,7 +1648,7 @@ Cette checklist synthétise toutes les règles de la charte sous forme de points
 
 ---
 
-### ✅ 12. SYMÉTRIE OBLIGATOIRE (RÈGLE D'OR)
+### ✅ 13. SYMÉTRIE OBLIGATOIRE (RÈGLE D'OR)
 - [ ] Temps de travail rigoureusement identique main gauche et main droite
 - [ ] Exercices strictement identiques d'une main à l'autre
 - [ ] Si exercice dure 3 min à gauche → 3 min à droite (ajuster pauses si besoin)
