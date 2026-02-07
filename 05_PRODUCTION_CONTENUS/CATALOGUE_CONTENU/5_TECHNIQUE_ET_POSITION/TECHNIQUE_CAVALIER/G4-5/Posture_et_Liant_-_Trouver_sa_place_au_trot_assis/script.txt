@@ -1,0 +1,7 @@
+ID: 165
+NOM: Posture & Liant : Trouver sa place au trot assis
+NIVEAU: Galop 4-5
+DUREE: 25 min
+CATEGORIE: TECHNIQUE CAVALIER
+
+DESCRIPTION: Exercices ciblés pour absorber le rebond et stabiliser sa position au trot assis.

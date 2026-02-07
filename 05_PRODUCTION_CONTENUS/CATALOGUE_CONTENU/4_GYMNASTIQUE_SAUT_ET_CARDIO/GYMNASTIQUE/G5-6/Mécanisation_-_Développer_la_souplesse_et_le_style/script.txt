@@ -1,0 +1,8 @@
+ID: 163
+NOM: Mécanisation : Développer la souplesse et le style
+NIVEAU: Galop 5-6
+DUREE: 35 min
+CATEGORIE: GYMNASTIQUE (Saut)
+
+DESCRIPTION: Utiliser des lignes de gymnastique pour améliorer le style de l'obstacle et la souplesse du dos.
+HAUTEUR MAX CONCONSEILLÉE: 60-70cm

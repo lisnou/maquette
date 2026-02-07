@@ -1,0 +1,8 @@
+ID: 160
+NOM: Gestion du calme : Maîtriser le tempo à l'obstacle
+NIVEAU: Galop 6-7
+DUREE: 40 min
+CATEGORIE: GYMNASTIQUE (Saut)
+
+DESCRIPTION: Apprendre à stabiliser le galop et à garder le cheval dans un équilibre serein, particulièrement entre les obstacles.
+HAUTEUR MAX CONCONSEILLÉE: 70cm

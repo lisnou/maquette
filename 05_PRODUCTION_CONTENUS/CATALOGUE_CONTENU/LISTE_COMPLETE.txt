@@ -1,131 +1,150 @@
 LISTE DES SÉANCES MyEquiVoice
-Dernière mise à jour : Architecture V1 (5 Piliers)
+Dernière mise à jour : Architecture V1 (Triée par Niveaux avec séparateurs)
 
 === 1. DRESSAGE ===
-1 - Souplesse : Apprendre à mieux tourner (30min) - G2-3
-2 - Développer la fluidité des transitions (20min) - G4-5
-3 - Rectitude et ligne droite (30min) - G4-5
-4 - Rebond et Trot Rassemblé (35min) - G5-6
-5 - Cercles, Incurvation et Contre-pli (35min) - G5-6
-7 - Initier l'épaule en dedans : Pli et Équilibre (30min) - G5-6
-8 - Galop rassemblé (45min) - G6-7
-9 - Maîtrise des cessions à la jambe - Pas et trot (30min) - G5-6
-10 - Rythme : Maintenir une allure régulière (20min) - G3-4
-11 - Serpentines variées (30min) - G4-5
-12 - Travail sur la légèreté (30min) - G5-6
-13 - Changements de pied au galop (45min) - G7+
-14 - Initiation : Tes premières figures de dressage (30min) - G2-3
-15 - Contre-galop contrôlé (30min) - G6-7
-16 - Enchaînements figures imposées (45min) - G7+
-17 - Gestion de l'Attitude : Extension et Rassembler (40min) - G5-6
-18 - Session équilibre et assiette (30min) - G4-5
-41 - Agilité et Pilotage : Maîtriser le cercle serré (30min) - G4-5
-42 - Discipline : La perfection de l'arrêt et de l'immobilité (20min) - G2-3
-43 - Reculer progressif (20min) - G5-6
-44 - Appuyer au trot (45min) - G7+
-45 - Variations d'amplitude au trot (30min) - G4-5
-46 - Maîtriser l'équilibre dans les changements de direction (30min) - G4-5
+1 - Apprendre à mieux tourner avec fluidité (30min) - G3-4
+2 - Maîtriser les transitions dans l'allure au trot (20min) - G3-4
+10 - Stabiliser le rythme et la régularité (20min) - G3-4
+14 - L'art du coin pour préparer son travail (30min) - G3-4
+42 - Chercher l'arrêt parfait et l'immobilité (20min) - G3-4
 47 - Galop juste et départs précis (30min) - G3-4
-136 - Impulsion au trot (20min) - G3-4
+136 - Booster l'impulsion au trot (30min) - G3-4
+
+3 - Maîtriser la trajectoire parfaite (30min) - G4-5
+9 - Maîtrise des cessions à la jambe (30min) - G4-5
+11 - Précision du tracé sur les serpentines (30min) - G4-5
+18 - Équilibre et fixité de l'assiette (30min) - G4-5
+41 - Précision et contrôle du cercle serré (30min) - G4-5
+45 - Allonger et compacter son trot (30min) - G4-5
+46 - Changements de direction et gestion de l'équilibre (30min) - G4-5
+138 - La fixité du contact moelleux (30min) - G4-5
+139 - Précision du tracé sur la diagonale (30min) - G4-5
+
+4 - Équilibre vertical : Développer le rebond au trot (35min) - G5-6
+5 - Gymnastique latérale : Maîtriser le pli et le contre-pli (36min) - G5-6
+7 - S'initier à l'épaule en dedans (30min) - G5-6
+12 - Chercher la légèreté aux trois allures (30min) - G5-6
+17 - Variations d'attitudes entre extension et rassembler (40min) - G5-6
+43 - Fluidité et contrôle du reculer (20min) - G5-6
+140 - La mise sur la main sans effort (30min) - G5-6
+
+8 - Cadence et équilibre au galop rassemblé (45min) - G6-7
+13 - Préparer et demander le changement de pied (45min) - G6-7
+15 - Stabilité et contrôle du galop à faux (30min) - G6-7
+16 - Précision sur les figures imposées (45min) - G6-7
+44 - Découverte et perfectionnement de l'appuyer (45min) - G6-7
+
 
 === 2. TRAVAIL AU SOL ===
 
---- LONGE ---
-19 - Longe débutant - Les bases (20min) - Niveau 1 - Initiation
-21 - Longe avec transitions (30min) - Niveau 2 - Évolution
-48 - Longe aux enrênements (30min) - Niveau 3 - Perfectionnement
-49 - Travail du dos en longe (25min) - Niveau 2 - Évolution
-54 - Travail de la voix en longe (20min) - Niveau 1 - Initiation
+--- L'ART DE LA LONGE (Connexion & Gymnastique) ---
+37 - Établir les codes vocaux et la connexion en longe (20min) - Niveau 1
+141 - Précision du tracé et variations de cercles en longe (20min) - Niveau 1
 
---- TRAVAIL EN MAIN & LIBERTÉ ---
-22 - Travail à pied : Contrôle des hanches (20min) - Niveau 2 - Évolution
-42 - Longues rênes - Introduction (30min) - Niveau 3 - Perfectionnement
-43 - Travail en main avancé (30min) - Niveau 3 - Perfectionnement
-50 - Sauts en liberté (20min) - Niveau 2 - Évolution
-52 - Parcours d'obstacles à pied (20min) - Niveau 1 - Initiation
+38 - Maîtriser les transitions dans l'allure en longe (30min) - Niveau 2
+48 - Cavalettis et barres au sol en longe (30min) - Niveau 2
+49 - Gymnastique et incurvation : Jouer avec la ligne du dessus (25min) - Niveau 2
 
---- ÉDUCATION & CONFIANCE ---
-20 - Désensibilisation et confiance (15min) - Niveau 1 - Initiation
-51 - Exercices de respect à pied (15min) - Niveau 1 - Initiation
+142 - Travail de l'engagement et du rassembler en longe (30min) - Niveau 3
+166 - Barres au sol en éventail : Varier les amplitudes à la longe (30min) - Niveau 3
 
---- CONDITION PHYSIQUE AU SOL ---
-23 - Gymnastique au sol (15min) - Niveau 1 - Initiation
-25 - Renforcement musculaire au sol (20min) - Niveau 2 - Évolution
-53 - Stretching et mobilisation (15min) - Niveau 1 - Initiation
+--- ÉDUCATION & TRAVAIL EN MAIN (Respect & Maniabilité) ---
+20 - Éclater les peurs : Désensibilisation ludique (20min) - Niveau 1
+51 - La bulle de sécurité : Respect et espace personnel (15min) - Niveau 1
+52 - Agility équestre : Le parcours d'embûches au licol (20min) - Niveau 1
 
-=== 3. DÉTENTE & BIEN-ÊTRE ===
-6 - Décontraction et étirements (20min) - G2-3
-127 - Détente au pas - Séance zen (30min) - G2-3
-128 - Échauffement doux et progressif (15min) - G2-3
-129 - Retour au calme après effort (20min) - G3+
-130 - Détente : Écoute et connexion avec son cheval (30min) - G2-3
-131 - Connexion et complicité (25min) - G2-3
-132 - Stretching monté - Extension d'encolure (20min) - G3-4
-133 - Récupération active douce (25min) - G3-4
-134 - Assouplir la nuque au pas (20min) - G3-4
-135 - Séance bien-être après compétition (25min) - G3+
+22 - Piloter les épaules et les hanches au licol (20min) - Niveau 2
+
+143 - S'initier aux longues rênes : Les bases du pilotage (30min) - Niveau 3
+
+--- MOBILISATION & BIEN-ÊTRE (Stretching sécurisé) ---
+23 - Stretching "Carotte" : Mobilisation douce globale (15min) - Niveau 1
+
+25 - Gainage et renforcement musculaire au sol (20min) - Niveau 2
+53 - Travail post-effort : Souplesse passive et récupération (15min) - Niveau 2
+
+
+=== 3. DÉTENTE, CONNEXION & BIEN-ÊTRE ===
+6 - Stretching carotte : Mobilité & Souplesse (20min) - G3+
+127 - Méditation guidée : Calme & Centrage (15min) - G3+
+128 - Échauffement doux & sensoriel (15min) - G3+
+129 - Récupération zen après l'effort (20min) - G3+
+130 - Connexion profonde : L'art du pas (30min) - G3+
+131 - Complicité : Éveiller ses sens en selle (25min) - G3+
+132 - Extension d'encolure : Libérer le dos (20min) - G3+
+134 - Décontracter la nuque & la mâchoire (20min) - G3+
+135 - Rituel de confort après compétition (25min) - G3+
+145 - Posture : Libérer dos & épaules (15min) - G3+
+146 - Gratitude : Le débrief de fin de séance (10min) - G3+
+
 
 === 4. GYMNASTIQUE DE SAUT & CARDIO ===
 
---- GYMNASTIQUE (Barres & Technique) ---
-27 - Obstacle : Gagner en équilibre sur ses sauts (30min) - G3-4
-28 - Ligne d'obstacles simples (30min) - G3-4
-30 - Gymnastique à l'obstacle (45min) - G6-7
-31 - Travail sur la trajectoire (30min) - G5-6
-36 - Cavalettis et barres au sol (20min) - G3-4
-55 - Gymnastique : Franchise et réflexes sur les sauts de puce (30min) - G5-6
-57 - Ligne courbe sur obstacles (45min) - G5-6
-107 - Gymnastique au galop - Préparation (30min) - G4-5
-108 - Cavalettis au galop - Distances (35min) - G5-6
-109 - Sauts isolés - Technique (40min) - G5-6
-137 - Circuit training : Musculation et souplesse à l'obstacle (45min) - G4-5
+--- GYMNASTIQUE (Technique & Mécanisation) ---
+27 - Équilibre & Position : Maîtriser son assiette au saut (30min) - G3-4
+36 - Cavalettis : Initiation au rythme et au tracé (20min) - G3-4
 
---- CARDIO (Galop & Souffle) ---
-101 - Introduction au galop en équilibre (30min) - G4-5
-102 - Galop rythmé - Régularité (35min) - G5-6
-103 - Condition physique et souffle (45min) - G5-6
-118 - Mini-enchaînement galop (40min) - G3-4
-124 - Récupération active post-effort (30min) - G3+
+28 - Franchise : Maîtriser sa première ligne d'obstacles (30min) - G4-5
+31 - Regard & Anticipation : Tracer ses trajectoires (30min) - G4-5
+107 - Galop de CSO : Gérer l'amplitude et la cadence (30min) - G4-5
+147 - Réception : Retrouver l'équilibre après le saut (30min) - G4-5
+164 - Précision du pilotage : Maîtriser ses abords sur le tracé (30min) - G4-5
+
+108 - Cavalettis au galop : Précision et distances (35min) - G5-6
+55 - Sauts de puce : Améliorer les réflexes (30min) - G5-6
+109 - Abords : Maîtriser sa distance et sa foulée (40min) - G5-6
+137 - Gym athlétique : Renforcement musculaire au saut (45min) - G5-6
+163 - Mécanisation : Développer la souplesse et le style (35min) - G5-6
+
+57 - Lignes courbes : Précision du tracé technique (45min) - G6-7
+160 - Gestion du calme : Maîtriser le tempo à l'obstacle (40min) - G6-7
+161 - Amplitude & Rigueur : Les contrats de foulées sur petites barres (40min) - G6-7
+
+--- CARDIO & SOUFFLE (Condition Physique) ---
+118 - Endurance douce : Rythmer son souffle et son allure (40min) - G3-4
+124 - Récupération active après l'effort (30min) - G3+
+
+101 - Galop en équilibre : Trouver sa place (30min) - G4-5
+
+102 - Endurance : Stabiliser son galop et son souffle (35min) - G5-6
+148 - Fractionné : Développer le cœur et la puissance (45min) - G5-6
+
 
 === 5. TECHNIQUE & POSITION ===
 
---- MISE EN SELLE ---
-91 - Travail de l'assiette et équilibre (30min) - G3-4
-92 - Indépendance des aides (30min) - G5-6
-93 - Exercices sans étriers (20min) - G4-5
-94 - Mobilité et souplesse en selle (20min) - G3+
-95 - Coordination jambes-mains-assiette (30min) - G4-5
-96 - Exercices ludiques d'équilibre (25min) - G2-3
-97 - Assiette au galop (30min) - G4-5
-98 - Fixité du haut du corps (25min) - G5-6
-99 - Descente de jambes et d'assiette (20min) - G4-5
-100 - Respiration et décontraction du cavalier (20min) - G3+
+--- TECHNIQUE CAVALIER (Mise en selle & Aides) ---
+100 - Respiration : Décontraction & Mental (20min) - G3+
+91 - Assiette : Trouver son centre de gravité (30min) - G3-4
+111 - Position CSO : Travail de l'équilibre en suspension (25min) - G3-4
 
---- FONCTIONNEMENT DU CHEVAL ---
-66 - Focus cadence régulière (30min) - G3+
-67 - Engagement des postérieurs (30min) - G5-6
-68 - Musculation : Renforcer le dos et l'arrière-main (30min) - G3-4
-69 - Équilibre horizontal (30min) - G5-6
-70 - Correction de l'asymétrie (30min) - G4-5
-71 - Mobilité de nuque (20min) - G3+
-72 - Activer l'élan : Retrouver une impulsion naturelle (30min) - G4-5
-73 - Précision et équilibre : Perfectionner les transitions (30min) - G4-5
-74 - Extension d'encolure : Libérer et muscler le dos (20min) - G4-5
-75 - Contact et légèreté main-bouche (30min) - G5-6
-76 - Souplesse longitudinale (30min) - G5-6
-77 - Activité de l'arrière-main (30min) - G5-6
-78 - Preparation physique générale (45min) - G3+
-79 - Flexibilité : Maîtriser les variations d'amplitude (30min) - G4-5
-80 - Stabilité de l'allure (20min) - G3+
+95 - Coordination : L'indépendance des aides (30min) - G4-5
+149 - Cavalier fluide : Mobilisation du bassin (20min) - G4-5
+165 - Posture & Liant : Trouver sa place au trot assis (25min) - G4-5
 
---- RÉSOLUTION DE PROBLÈMES ---
-81 - Légèreté de la main : Pour un cheval qui pèse sur son mors (30min) - G3+
-82 - Cheval précipité/speed (30min) - G3+
-83 - Booster l'énergie : Pour un cheval qui manque d'impulsion (30min) - G3+
-84 - Raideur d'un côté (30min) - G3+
-85 - Vitesse de réaction : Pour un cheval léger et à l'écoute (30min) - G3+
-86 - Cheval en déséquilibre (30min) - G3+
-87 - Engagement : Muscler et remonter le dos de son cheval (30min) - G3+
-88 - Tête en l'air/nuque raide (30min) - G3+
-89 - Cheval qui coupe les courbes (30min) - G3+
-90 - Cheval qui ne pousse pas du postérieur (30min) - G3+
+93 - Sans étriers : Consolider sa fixité (20min) - G5-6
+98 - Fixité du buste et des mains (25min) - G5-6
+150 - Liant au galop : Maîtriser son assiette profonde (30min) - G5-6
+
+162 - La main invisible : Finesse et discrétion des aides (30min) - G6-7
+
+--- TECHNIQUE CHEVAL (Biomécanique & Locomotion) ---
+66 - Cadence : Régularité des 3 allures (30min) - G3-4
+74 - Extension d'encolure : Favoriser la descente (20min) - G3-4
+
+116 - Rectitude : Aligner les épaules et les hanches (30min) - G4-5
+68 - Musculation : Renforcer le dos et les abdos (30min) - G4-5
+152 - Précision : Perfectionner ses arrêts et reculers (25min) - G4-5
+
+75 - Contact et légèreté : Main-bouche fluide (30min) - G5-6
+77 - Activité : Améliorer l'engagement des postérieurs (30min) - G5-6
+79 - Amplitudes : Varier au sein des allures (30min) - G5-6
+
+--- RÉSOLUTION DE PROBLÈMES (Ateliers de Correction) ---
+81 - Légèreté : Pour un cheval qui pèse sur son mors (30min) - G3+
+82 - Tempo : Pour un cheval qui précipite ou s'excite (30min) - G3+
+83 - Impulsion : Réveiller le cheval "froid" ou mou (30min) - G3+
+84 - Dissymétrie : Assouplir le côté raide (30min) - G3+
+85 - Réactivité : Améliorer la réponse aux aides (30min) - G3+
+86 - Équilibre : Pour un cheval qui tombe sur les épaules (30min) - G3+
+88 - Nuque : Pour un cheval qui tire ou s'encapuchonne (30min) - G3+
+89 - Direction : Pour un cheval qui dérape ou coupe les courbes (30min) - G3+

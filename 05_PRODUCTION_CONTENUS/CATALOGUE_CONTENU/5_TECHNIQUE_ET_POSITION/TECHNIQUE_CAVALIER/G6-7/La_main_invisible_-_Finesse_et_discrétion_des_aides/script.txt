@@ -1,0 +1,7 @@
+ID: 162
+NOM: La main invisible : Finesse et discrétion des aides
+NIVEAU: Galop 6-7
+DUREE: 30 min
+CATEGORIE: TECHNIQUE CAVALIER
+
+DESCRIPTION: Atteindre le sommet de la communication avec son cheval par l'économie totale des aides.

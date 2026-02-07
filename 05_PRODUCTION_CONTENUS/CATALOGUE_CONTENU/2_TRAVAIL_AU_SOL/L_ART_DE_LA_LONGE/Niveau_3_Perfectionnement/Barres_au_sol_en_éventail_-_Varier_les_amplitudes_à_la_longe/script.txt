@@ -1,0 +1,7 @@
+ID: 166
+NOM: Barres au sol en éventail : Varier les amplitudes à la longe
+NIVEAU: Niveau 3 - Perfectionnement
+DUREE: 30 min
+CATEGORIE: TRAVAIL AU SOL (Longe)
+
+DESCRIPTION: Utiliser le dispositif en éventail pour apprendre au cheval à adapter son amplitude sur un cercle.

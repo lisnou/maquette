@@ -32,8 +32,6 @@ Pour aller aux App Stores sans s'épuiser :
 | | *Navigation entre les catégories, fiches séances (déjà bien avancé).* | |
 | **Mai** | **Compte Utilisateur & Chevaux** | 3-4 |
 | | *Création de profils, suivi de la progression.* | |
-| **Juin** | **Mode Hors-Ligne** | 2-3 |
-| | *Indispensable dans les écuries (téléchargement des audios).* | |
 | **Juillet** | **Beta Test & Correction** | 4 |
 | | *Tests réels avec des cavaliers (tu as déjà la stratégie).* | |
 | **Août** | **Publication Stores** | 2 |

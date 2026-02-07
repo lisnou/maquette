@@ -8,8 +8,9 @@ Ce document définit les règles de gestion et le comportement attendu de l'appl
 L'application doit filtrer les séances selon le profil de l'utilisateur.
 
 ### A. Filtres de Niveau (Galops)
-- **Comportement standard** : Si l'utilisateur sélectionne son niveau (ex: G4), l'app affiche uniquement les séances G4.
-- **Toggle "Inclure niveaux inférieurs"** : Si coché, l'app affiche G4 + tous les niveaux en dessous.
+- **Point de départ** : Le catalogue commence au niveau **Galop 3 / G3+**. Les niveaux inférieurs (G1-G2) ont été exclus pour garantir la sécurité des utilisateurs montant en autonomie.
+- **Comportement standard** : Si l'utilisateur sélectionne son niveau (ex: G5), l'app affiche uniquement les séances G5.
+- **Toggle "Inclure niveaux inférieurs"** : Si coché, l'app affiche G5 + tous les niveaux en dessous (G4, G3+).
 - **Exception "Correction de Problèmes"** : Cette catégorie doit être **codée pour rester visible en permanence**, quel que soit le niveau ou le filtre sélectionné par l'utilisateur.
 
 ### B. Recommandations via Profil Cheval
