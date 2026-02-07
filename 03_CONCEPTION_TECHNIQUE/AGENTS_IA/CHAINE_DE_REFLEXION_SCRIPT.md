@@ -4,15 +4,31 @@ Ce document retranscrit exactement ta méthode de travail manuscrite pour la cr�
 
 ```mermaid
 graph TD
-    1["1. CHOISIR 1 séance et lire son objectif / son niveau / sa durée"] --> 2
-    2["2. En fonction de la case 1, rechercher sur internet sur le programme FFE les compétences acquises et à développer pour créer une séance adaptée au niveau choisi."] --> 3
-    3["3. Hors FFE, faire une recherche internet liée à l'objectif et niveau choisi pour la séance (compléments d'infos sur les compétences / savoirs)"] --> 4
-    4["4. Analyser ma bibliothèque d'exercices déjà créés + chercher aussi sur internet pour trouver les meilleurs exos à faire pour cette séance (en prenant toujours en compte l'objectif & le niveau & aussi la durée de séance voulue)"] --> 5
-    5["5. Lire et Analyser en amont de l'écriture ma charte éditoriale & pédagogique"] --> 6
-    6["6. Passer à l'écriture du script en répondant aux règles strictes de la charte"]
+    subgraph "Sourcing (P1 & P2)"
+    1["1. Choisir la séance et définir son cadre (P1)"] --> 2
+    2["2. Analyse FFE : Compétences acquises et à développer (P2)<br/>Source : https://www.ffe.com/pratiquant/galops"] --> 3
+    3["3. Sourcing : Bibliothèque d'exos perso + Recherches Web (P2)"] --> 4
+    4["4. Analyse Historique : Éviter les redondances et lissage du style (P2)"] --> 5
+    end
+
+    subgraph "Conception (P3)"
+    5["5. Architecture : Créer le déroulé pédagogique via la Charte (P3)"] --> 6
+    6["6. Planification : Séquençage précis et calcul de la durée (P3)"] --> 7
+    end
+
+    subgraph "Production (P4)"
+    7["7. Rédaction : Écriture du script final selon la Charte (P4)"] --> 8
+    8["8. Chronomètre : Contrôle du temps de lecture effectif (P4)"] --> 9
+    end
+
+    subgraph "Qualité & Audit (P5 & P6)"
+    9["9. Audit Qualité : Contrôle fluidité et propositions d'options (P5)"] --> 10
+    10["10. Décision : Validation, Archivage ou renvoi en correction (P6)"]
+    end
 
     style 1 fill:#f9f,stroke:#333,stroke-width:2px
-    style 6 fill:#bbf,stroke:#333,stroke-width:4px
+    style 7 fill:#bbf,stroke:#333,stroke-width:2px
+    style 10 fill:#00ff00,stroke:#333,stroke-width:4px
 ```
 
 ### 💡 Comment voir ce document en "bulles" ?
