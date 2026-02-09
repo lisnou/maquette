@@ -20,6 +20,7 @@ Cette bibliothèque contient des **exercices variés et originaux** pour créer 
 ## 📁 ORGANISATION DES FICHIERS
 
 ### 🐴 DRESSAGE
+- `00_REFERENTIEL_FIGURES_MANEGE.md` - **[Référentiel]** Nomenclature des tracés de base
 - `dressage_engagement.md` - Exercices pour l'engagement des postérieurs
 - `dressage_rectitude.md` - Exercices pour la rectitude et l'équilibre
 - `dressage_souplesse.md` - Exercices pour la souplesse latérale

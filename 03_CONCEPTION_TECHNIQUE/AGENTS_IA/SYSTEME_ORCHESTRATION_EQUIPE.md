@@ -26,12 +26,15 @@ Ce document définit l'organisation "industrielle" pour produire des scripts san
 *   **Output** : Le "Plan d'Assemblage" (Structure chronologique détaillée).
 
 ### **👤 Personne 4 : Le Rédacteur & Chronométreur (Production)**
-*   *Elle donne vie au texte.*
+*   *Elle donne vie au texte et à l'interface.*
 *   **Missions** :
-    1.  **Rédaction** : Écrit le script final en respectant le plan de P3.
-    2.  **Finition** : Applique le ton et le style MyEquiVoice à la lettre.
-    3.  **Contrôle Temps** : Vérifie que le texte + les pauses correspondent au chronométrage final.
-*   **Output** : Le Script V1 fini.
+    1.  **Rédaction Script** : Écrit le script final en respectant le plan de P3.
+    2.  **Création Fiche de Séance (App Info)** : Rédige le résumé "Cheat Sheet" pour l'app (Objectif ➔ Matériel ➔ Exercices Techniques ➔ Conseil/Piège).
+    3.  **Gestion des Visuels** : Identifie le besoin de schémas par exercice et prépare les descriptions pour leur génération.
+    4.  **Contrôle Temps** : Vérifie que le texte + les pauses correspondent au chronométrage final.
+*   **Output** : 
+    - Le Script V1 fini.
+    - La Fiche de séance (fiche.md) pour l'affichage in-app.
 
 ### **👤 Personne 5 : Le Contrôleur Qualité (Audit)**
 *   **Mission** : Vérifie la fluidité, la clarté et la conformité finale. Elle propose des options ou modifications possibles pour améliorer la qualité si besoin.

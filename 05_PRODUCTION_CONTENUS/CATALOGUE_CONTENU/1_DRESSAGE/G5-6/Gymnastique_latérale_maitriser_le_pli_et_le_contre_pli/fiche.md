@@ -1,59 +1,40 @@
-# 📄 Fiche de Séance : Maîtriser le Pli et le Contre-Pli
+# 📄 FICHE TECHNIQUE : PLI ET CONTRE-PLI (G5-6)
 
-**Discipline** : Dressage  
-**Niveau** : Galop 5-6  
-**Durée** : 36 minutes  
-**Intensité** : Élevée (Gymnastique latérale intense)
+#### **🎯 L'OBJECTIF :**
+> "Débloquer les épaules et muscler le dos par la gymnastique latérale intense."
 
----
-
-## 🎯 Objectifs de la séance
-L'objectif est de mobiliser les épaules et les hanches à travers des changements de plis successifs pour améliorer la souplesse et la réactivité aux aides.
-- Débloquer la base de l'encolure et les épaules.
-- Consolider la réponse au poids du corps et au décalage des mains.
-- Améliorer l'engagement des postérieurs par le travail en contre-pli.
-
-## 🛠️ Matériel & Configuration
-- **Lieu** : Carrière ou manège (lettres indispensables).
-- **Équipement** : Aucun équipement spécifique.
-
-## 🐎 Pré-requis
-- Cheval disponible et "devant les jambes".
-- Cavalier maîtrisant l'indépendance des aides et le trot assis.
+#### **🛠️ MATÉRIEL À PRÉVOIR :**
+*   Aucun (Utilisation des lettres de manège).
 
 ---
 
-## 📈 Déroulement de la séance
+#### **🔍 EXERCICES À MÉMORISER :**
 
-### 1. Introduction & Échauffement au pas (10 min)
-- **Détente** : Pas rênes longues pour la mise en route articulaire.
-- **Mobilité** : Légères "épaules en avant" pour tester la disponibilité latérale.
-- **Précision** : Test de pli et contre-pli sur la ligne droite.
+**1. ⛄ LE BONHOMME DE NEIGE**
+*   *Tracé :* 3 cercles tangents (20m ➔ 15m ➔ 10m).
+*   *Focus :* Fluidité du changement de pli à chaque intersection.
+*   🖼️ **[VOIR LE SCHÉMA N°1]**
 
-### 2. Échauffement au trot : Rectitude & Décontraction (6 min 30)
-- **Masse musculaire** : Trot enlevé avec extensions d'encolure précises (micro-vibrations).
-- **Test latéral** : Alternance pli/droit/contre-pli sur le grand côté pour vérifier la réactivité.
+**2. ➰ LA GUIRLANDE TECHNIQUE**
+*   *Tracé :* 3 boucles sur le grand côté (8m ➔ 15m ➔ 8m).
+*   *Focus :* Rectitude parfaite lors des transitions Trot/Pas/Trot sur la piste.
+*   🖼️ **[VOIR LE SCHÉMA N°2]**
 
-### 3. Précision : Le Bonhomme de Neige & Guirlandes (8 min)
-- **Le Bonhomme de Neige** : Enchaînement de trois cercles tangents (20m, 15m, 10m) avec changements de plis fluides aux intersections.
-- **La Guirlande Technique** : Trois boucles sur le grand côté entrecoupées de transitions trot-pas-trot pour la rectitude.
+**3. ⚡ LE HUIT EN CONTRE-PLI**
+*   *Tracé :* Huit de chiffre (cercles 15m).
+*   *Focus :* Garder le pli à gauche quand on tourne à droite (et inversement).
+*   🖼️ **[VOIR LE SCHÉMA N°3 : POSITION DES AIDES]**
 
-### 4. Intensification : La Vague & Huit Symétrisé (10 min)
-- **La Vague** : Variations de plis (intérieur, droit, contre-pli) sans quitter la piste.
-- **Huit de chiffre en contre-pli** : Gymnastique intense sur des cercles de 15m (pli inverse à la trajectoire) travaillés aux deux mains.
+**4. 🌊 LA VAGUE**
+*   *Tracé :* Ligne droite sur la piste.
+*   *Focus :* Alterner Pli / Droit / Contre-pli sans quitter le mur.
 
-### 5. Fluidité : Lignes courbes au Galop (4 min 30)
-- **Travail du pli** : Lignes courbes de 5m en maintenant le pli initial pour "verrouiller" le bon pied via le contre-pli au retour à la piste.
-
-### 6. Récupération & Réflexion (2 min)
-- **Assimilation** : Pas rênes longues et auto-évaluation sur la symétrie de la souplesse.
-
----
-
-## 💡 Conseils du coach
-- **Le bloc des mains** : Pour le contre-pli, déplace tes deux mains ensemble vers l'extérieur pour pousser les épaules sans casser l'encolure.
-- **Indépendance des aides** : Garde tes jambes comme un couloir ; la jambe intérieure est ton pilier, ne la laisse pas s'écraser.
-- **Récompense** : Laisse ton cheval étendre son encolure régulièrement entre les exercices intenses pour éviter les courbatures.
+**5. ⤴️ LA LIGNE COURBE AU GALOP**
+*   *Tracé :* Éloignement de 5m du mur puis retour à la piste.
+*   *Focus :* Maintenir le pli initial pendant toute la courbe pour "verrouiller" le galop sur le bon pied (léger contre-pli au retour).
+*   🖼️ **[VOIR LE SCHÉMA N°4]**
 
 ---
-*Fiche de séance MyEquiVoice - Respect de la Charte Éditoriale*
+
+#### **💡 LE CONSEIL DU COACH :**
+> **"Le piège : Tirer sur la rêne intérieure !** Si ton cheval coupe le tournant, n'utilise pas ta main. Renforce ta jambe intérieure à la sangle : c'est elle qui pousse les côtes du cheval vers l'extérieur et dessine la courbe."
