@@ -1,0 +1,14 @@
+Le script doit avoir ce format : 
+script 1 :
+-CONTEXTE  : cavalier en selle  phase intro
+Bonjour {message_de_bienvenu} nous allons commencer {nom_de_la_séance}.
+script 2 : 
+-CONTEXTE  : cavalier en selle phase intro
+aujourd'hui on va ... {phrase_introduction_séance} et nous allons faire les premiers check {premier_check}
+script 3 : 
+-CONTEXTE  "cavalier est en selle départ de la séance"
+Contenu de la seances + les pauses etc..
+script 4 :
+-CONTEXTE : Cavalier en fin de séance et arrêt de la séance
+{phase d'aurevoir et à bientot.}
+

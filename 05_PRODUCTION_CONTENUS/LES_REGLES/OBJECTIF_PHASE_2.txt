@@ -1,0 +1,46 @@
+==============================================================
+  PHASE 2 — PRODUCTION DES PROMPTS IA PAR DISCIPLINE
+  (À réaliser dans une conversation séparée)
+==============================================================
+
+OBJECTIF :
+----------
+Créer 3 fichiers de prompts IA (System Prompt pour Gemini Pro 3 / Flash 3),
+un par discipline, pour générer automatiquement des scripts audio MyEquiVoice.
+
+FICHIERS À PRODUIRE :
+---------------------
+1. format_script_v2_dressage.md  → Prompt pour séances Dressage / Plat
+2. format_script_v2_saut.md     → Prompt pour séances Obstacle / CSO
+3. format_script_v2_sol.md      → Prompt pour séances Travail au Sol
+
+PRÉREQUIS (produits en Phase 1) :
+----------------------------------
+- charte_editorial_commune.md   → Règles transversales
+- charte_editorial_dressage.md  → Règles spécifiques dressage
+- charte_editorial_saut.md      → Règles spécifiques obstacle
+- charte_editorial_sol.md       → Règles spécifiques travail au sol
+
+STRUCTURE DE CHAQUE PROMPT :
+-----------------------------
+INPUT attendu par l'utilisateur :
+  - Niveau : G3 | G4 | G5 | G6 | G7
+  - Durée : 20 | 30 | 45 | 60 min
+  - Intitulé de la séance : titre libre
+
+OUTPUT généré par l'IA (4 scripts) :
+  Script 1 → Intro : bienvenue + présentation séance (~1 min)
+  Script 2 → Checks : vérification matériel/sangle + repères piste (~1-2 min)
+  Script 3 → Corps de séance : échauffement → exercices → pauses → retour au calme (variable)
+  Script 4 → Conclusion : moment de réflexion + phrase rituelle de fin (~1-2 min)
+
+CONTRAINTES :
+-------------
+- Chaque prompt doit être AUTO-SUFFISANT (embarquer les règles communes
+  + discipline en un seul fichier, prêt à coller dans Gemini)
+- Format de sortie : balises ## [SECTION] (MM:SS - MM:SS)
+- Le Script 3 est le plus dense et spécifique à chaque discipline/objectif
+- Timing réaliste (fourchettes terrain, pas de pauses irréalistes)
+- S'appuyer sur le skill equivoice-library-manager pour la variété des exercices
+
+==============================================================
