@@ -34,10 +34,10 @@ Ces phrases sont **identiques dans chaque script, sans exception** :
 ## 3. STYLE ORAL — L'EFFET "MONITEUR EN LIVE"
 
 ### Règle d'or
-> Toute phrase qui ne peut pas être prononcée naturellement par un coach sur le bord de la piste est **INTERDITE**.Le ton doit rester chaud et engageant. Utilisez des phrases complètes et construites (Sujet-Verbe-Complément). N'hésitez pas à encourager ('C'est bien', 'Allez', 'Super') pour maintenir la motivation. Évitez le style télégraphique froid.
+> Toute phrase qui ne peut pas être prononcée naturellement par un coach sur le bord de la piste est **INTERDITE**.
 
 ### Syntaxe du direct
-- Eviter si possible les "ne" de négation → "Faut pas" au lieu de "Il ne faut pas"
+- Supprimer les "ne" de négation → "Faut pas" au lieu de "Il ne faut pas"
 - Contractions naturelles → "T'as", "T'es", "Y'a"
 - Interjections de vie → "Allez,", "Tiens,", "Voilà,", "C'est ça,", "Nickel,"
 

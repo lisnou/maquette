@@ -2,7 +2,7 @@ LISTE DES SÉANCES MyEquiVoice
 Dernière mise à jour : Architecture V1 (Triée par Niveaux avec séparateurs)
 
 === 1. DRESSAGE ===
-1 - Apprendre à mieux tourner avec fluidité (30min) - G3-4
+1 - Apprendre à mieux tourner avec fluidité (30min) - G3-4 FAIT
 2 - Maîtriser les transitions dans l'allure au trot (20min) - G3-4
 10 - Stabiliser le rythme et la régularité (20min) - G3-4
 14 - L'art du coin pour préparer son travail (30min) - G3-4
@@ -42,6 +42,7 @@ Dernière mise à jour : Architecture V1 (Triée par Niveaux avec séparateurs)
 141 - Précision du tracé et variations de cercles en longe (20min) - Niveau 1
 
 38 - Maîtriser les transitions dans l'allure en longe (30min) - Niveau 2
+133 - Cavalettis et barres au sol en longe (30min) - Niveau 2 FAIT
 48 - Cavalettis et barres au sol en longe (30min) - Niveau 2
 49 - Gymnastique et incurvation : Jouer avec la ligne du dessus (25min) - Niveau 2
 
@@ -69,7 +70,7 @@ Dernière mise à jour : Architecture V1 (Triée par Niveaux avec séparateurs)
 127 - Méditation guidée : Calme & Centrage (15min) - G3+
 128 - Échauffement doux & sensoriel (15min) - G3+
 129 - Récupération zen après l'effort (20min) - G3+
-130 - Connexion profonde : L'art du pas (30min) - G3+
+130 - Connexion profonde : L'art du pas (20min) - G3+ FAIT
 131 - Complicité : Éveiller ses sens en selle (25min) - G3+
 132 - Extension d'encolure : Libérer le dos (20min) - G3+
 134 - Décontracter la nuque & la mâchoire (20min) - G3+
